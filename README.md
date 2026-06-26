@@ -6,7 +6,7 @@ Ini adalah proyek aplikasi **Manajemen Gudang** berbasis [React Native](https://
 
 ## 👥 Anggota Kelompok
 * **Habibah Rifa Anjani** (NIM: 230705030)
-* *Silahkan tambahkan nama anggota kelompokmu yang lain di sini*
+
 
 ---
 
@@ -32,3 +32,14 @@ Ini adalah proyek aplikasi **Manajemen Gudang** berbasis [React Native](https://
 Buka terminal di root folder proyek, lalu jalankan:
 ```bash
 npm install
+1. Instalasi Dependency
+Buka terminal di root folder proyek, lalu jalankan:
+npm install
+
+2. Jalankan Metro Bundler
+Untuk menyalakan server lokal React Native, jalankan:
+npm start
+
+3. Jalankan Aplikasi di Android
+Untuk melihat hasilnya di emulator atau HP, jalankan:
+npx react-native run-android

@@ -6,6 +6,7 @@ Ini adalah proyek aplikasi **Manajemen Gudang** berbasis [React Native](https://
 
 ## 👥 Anggota Kelompok
 * **Habibah Rifa Anjani** (NIM: 230705030)
+* **Yati Fiddiani**(NIM:  2307050226)
 
 
 ---

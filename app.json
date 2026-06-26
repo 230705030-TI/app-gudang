@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "pemograman-mobile",
+    "slug": "pemograman-mobile",
+    "version": "1.0.0",
+    "sdkVersion": "51.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "android": {
+      "package": "com.anonymous.pemogramanmobile"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
